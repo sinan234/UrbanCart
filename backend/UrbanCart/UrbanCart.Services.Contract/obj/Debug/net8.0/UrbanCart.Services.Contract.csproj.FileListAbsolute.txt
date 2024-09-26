@@ -1,0 +1,11 @@
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\bin\Debug\net8.0\UrbanCart.Services.Contract.deps.json
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\bin\Debug\net8.0\UrbanCart.Services.Contract.dll
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\bin\Debug\net8.0\UrbanCart.Services.Contract.pdb
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\obj\Debug\net8.0\UrbanCart.Services.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\obj\Debug\net8.0\UrbanCart.Services.Contract.AssemblyInfoInputs.cache
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\obj\Debug\net8.0\UrbanCart.Services.Contract.AssemblyInfo.cs
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\obj\Debug\net8.0\UrbanCart.Services.Contract.csproj.CoreCompileInputs.cache
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\obj\Debug\net8.0\UrbanCart.Services.Contract.dll
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\obj\Debug\net8.0\refint\UrbanCart.Services.Contract.dll
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\obj\Debug\net8.0\UrbanCart.Services.Contract.pdb
+D:\UrbanCart\backend\UrbanCart\UrbanCart.Services.Contract\obj\Debug\net8.0\ref\UrbanCart.Services.Contract.dll

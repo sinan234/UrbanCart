@@ -1,0 +1,11 @@
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\bin\Debug\net8.0\UrbanCart.DataAccess.deps.json
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\bin\Debug\net8.0\UrbanCart.DataAccess.dll
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\bin\Debug\net8.0\UrbanCart.DataAccess.pdb
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\obj\Debug\net8.0\UrbanCart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\obj\Debug\net8.0\UrbanCart.DataAccess.AssemblyInfoInputs.cache
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\obj\Debug\net8.0\UrbanCart.DataAccess.AssemblyInfo.cs
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\obj\Debug\net8.0\UrbanCart.DataAccess.csproj.CoreCompileInputs.cache
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\obj\Debug\net8.0\UrbanCart.DataAccess.dll
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\obj\Debug\net8.0\refint\UrbanCart.DataAccess.dll
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\obj\Debug\net8.0\UrbanCart.DataAccess.pdb
+D:\UrbanCart\backend\UrbanCart\UrbanCart.DataAccess\obj\Debug\net8.0\ref\UrbanCart.DataAccess.dll

@@ -1,0 +1,6 @@
+@UrbanCart.WebAPI_HostAddress = http://localhost:5027
+
+GET {{UrbanCart.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

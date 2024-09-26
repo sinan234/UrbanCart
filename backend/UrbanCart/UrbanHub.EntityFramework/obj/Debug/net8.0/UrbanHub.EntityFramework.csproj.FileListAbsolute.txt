@@ -1,0 +1,14 @@
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\bin\Debug\net8.0\UrbanHub.EntityFramework.deps.json
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\bin\Debug\net8.0\UrbanHub.EntityFramework.runtimeconfig.json
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\bin\Debug\net8.0\UrbanHub.EntityFramework.dll
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\bin\Debug\net8.0\UrbanHub.EntityFramework.pdb
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\UrbanHub.EntityFramework.csproj.AssemblyReference.cache
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\UrbanHub.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\UrbanHub.EntityFramework.AssemblyInfoInputs.cache
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\UrbanHub.EntityFramework.AssemblyInfo.cs
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\UrbanHub.EntityFramework.csproj.CoreCompileInputs.cache
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\UrbanHub.EntityFramework.dll
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\refint\UrbanHub.EntityFramework.dll
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\UrbanHub.EntityFramework.pdb
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\UrbanHub.EntityFramework.genruntimeconfig.cache
+D:\UrbanCart\backend\UrbanCart\UrbanHub.EntityFramework\obj\Debug\net8.0\ref\UrbanHub.EntityFramework.dll

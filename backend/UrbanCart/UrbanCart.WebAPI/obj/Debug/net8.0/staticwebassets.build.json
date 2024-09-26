@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AQCQ18/oL4kUuHuQXCRBbwgc48JsdOD1Ja7gg0uN0mk=",
+  "Source": "UrbanCart.WebAPI",
+  "BasePath": "_content/UrbanCart.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

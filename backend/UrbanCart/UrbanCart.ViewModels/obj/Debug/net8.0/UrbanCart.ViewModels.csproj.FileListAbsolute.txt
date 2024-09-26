@@ -1,0 +1,11 @@
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\bin\Debug\net8.0\UrbanCart.ViewModels.deps.json
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\bin\Debug\net8.0\UrbanCart.ViewModels.dll
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\bin\Debug\net8.0\UrbanCart.ViewModels.pdb
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\obj\Debug\net8.0\UrbanCart.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\obj\Debug\net8.0\UrbanCart.ViewModels.AssemblyInfoInputs.cache
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\obj\Debug\net8.0\UrbanCart.ViewModels.AssemblyInfo.cs
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\obj\Debug\net8.0\UrbanCart.ViewModels.csproj.CoreCompileInputs.cache
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\obj\Debug\net8.0\UrbanCart.ViewModels.dll
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\obj\Debug\net8.0\refint\UrbanCart.ViewModels.dll
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\obj\Debug\net8.0\UrbanCart.ViewModels.pdb
+D:\UrbanCart\backend\UrbanCart\UrbanCart.ViewModels\obj\Debug\net8.0\ref\UrbanCart.ViewModels.dll
